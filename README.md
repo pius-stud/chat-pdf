@@ -7,7 +7,7 @@ Thanks to these scripts is possible to load more PDF files and to query the Chat
 This is done creating indexes (and/or a graph) from each pdf file that can be queried.\
 \
 The Scripts folder is composed of different files:
-- chatdocu.py
-- envchatdocu.yaml
-- query_composable_graph.py
-- query_semplice.py
+- **chatdocu.py**: 
+- **envchatdocu.yaml**:
+- **query_composable_graph.py**:
+- **query_semplice.py**:
