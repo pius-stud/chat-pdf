@@ -7,7 +7,7 @@ Thanks to these scripts is possible to load more PDF files and to query the Chat
 This is done creating indexes (and/or a graph) from each pdf file that can be queried.\
 \
 The Scripts folder is composed of different files:
-- **chatdocu.py**: 
-- **envchatdocu.yaml**:
-- **query_composable_graph.py**:
-- **query_semplice.py**:
+- **chatdocu.py**: if you want to run a website-like chat with your pdfs.
+- **envchatdocu.yaml**: Anaconda environment with the needed libraries.
+- **query_composable_graph.py**: Querying multiple index (PDF files) at once to obtain a response built from them.
+- **query_index_basic.py**: The simplest way. Load a PDF file, build an index, and ask questions about it.
